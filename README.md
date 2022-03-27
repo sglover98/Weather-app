@@ -1,12 +1,14 @@
 # App URL
 https://weather-app-sglover98.vercel.app/
 
-Input your city into the search bar
+Input your city into the search bar get back you local weather provided to you via a weather API!
+
+
+<img width="1440" alt="Screen Shot 2022-03-26 at 7 55 03 PM" src="https://user-images.githubusercontent.com/88252222/160261529-221d5d28-7e79-427a-8a12-0b7211ba3558.png">
 
 
 
-
-
+<img width="1436" alt="Screen Shot 2022-03-26 at 7 54 37 PM" src="https://user-images.githubusercontent.com/88252222/160261530-9669e907-fd25-4944-aa1d-9d823e86e2c4.png">
 
 
 
