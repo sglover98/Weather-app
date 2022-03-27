@@ -1,5 +1,7 @@
-#Application URL 
+# App URL
 https://weather-app-sglover98.vercel.app/
+
+Input your city into the search bar
 
 
 
