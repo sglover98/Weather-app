@@ -1,6 +1,5 @@
 # App URL
-https://magic8ball-rho.vercel.app/
-
+https://weather-app-zeta-six.vercel.app/
 Input your city into the search bar get back you local weather provided to you via a weather API!
 
 
