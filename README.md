@@ -1,5 +1,5 @@
 # App URL
-https://weather-app-sglover98.vercel.app/
+https://magic8ball-rho.vercel.app/
 
 Input your city into the search bar get back you local weather provided to you via a weather API!
 
